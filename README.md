@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Vascan-Njagi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any web development project
-- 📫 email me at  'vascannjagi@gmail.com'
+- Hi, I’m @Vascan-Njagi
+- Im currently doing web development and mobile app development at an advanced level.
+- I’m looking to collaborate on any project so that i can further develop my skills.
+- Email me at  'vascannjagi@gmail.com'
+- See my linked-In profile at "https://www.linkedin.com/in/vascan-njagi-751210249/"  
 
-<!---
-Vascan-Njagi/Vascan-Njagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
